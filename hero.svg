@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="Cup of latte with heart latte art">
+  <circle cx="240" cy="250" r="210" fill="#2b5248"/>
+  <ellipse cx="240" cy="262" rx="190" ry="186" fill="#e9efe6"/>
+  <ellipse cx="240" cy="262" rx="150" ry="146" fill="#ffffff"/>
+  <!-- handle -->
+  <path d="M372 222 h52 a34 34 0 0 1 0 68 h-44" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="240" cy="250" r="118" fill="#ffffff" stroke="#dfe7dc" stroke-width="4"/>
+  <circle cx="240" cy="250" r="100" fill="#6b3f26"/>
+  <circle cx="240" cy="250" r="82" fill="#8a5636"/>
+  <!-- latte art heart -->
+  <path d="M240 312 C170 262 182 204 222 208 C234 209 240 218 240 226 C240 218 246 209 258 208 C298 204 310 262 240 312 Z" fill="#f4e7d3"/>
+  <path d="M240 290 C200 258 206 228 224 229 C233 230 240 237 240 244 C240 237 247 230 256 229 C274 228 280 258 240 290 Z" fill="#8a5636" opacity=".55"/>
+  <!-- saucer highlight -->
+  <path d="M96 330 a160 150 0 0 0 110 92" fill="none" stroke="#dfe7dc" stroke-width="6" stroke-linecap="round"/>
+  <!-- coffee beans -->
+  <g fill="#6b3f26">
+    <ellipse cx="62" cy="96" rx="22" ry="14" transform="rotate(-30 62 96)"/>
+    <ellipse cx="428" cy="92" rx="18" ry="11" transform="rotate(25 428 92)"/>
+  </g>
+  <g fill="none" stroke="#e9efe6" stroke-width="3" stroke-linecap="round">
+    <path d="M46 104 q16 -12 32 -16" />
+    <path d="M415 96 q12 -6 26 -8" />
+  </g>
+</svg>
